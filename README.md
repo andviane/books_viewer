@@ -1,2 +1,3 @@
 # books_viewer
-Forwarding repository required due Google metadata policy
+
+Please visit https://github.com/andviane/google-books-android-viewer for the page of the Unofficial Books viewer project. Due metadata policy 'google-books' cannot be part of the URL in the Google Android PlayStore.
